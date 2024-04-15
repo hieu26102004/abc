@@ -1,0 +1,605 @@
+F:\HK2\Lap trinh window\Đồ án\AppXinViecWPF\AppXinViecWPF\obj\Debug\AppXinViecWPF.csproj.AssemblyReference.cache
+F:\HK2\Lap trinh window\Đồ án\AppXinViecWPF\AppXinViecWPF\obj\Debug\Style\ColorStyle.baml
+F:\HK2\Lap trinh window\Đồ án\AppXinViecWPF\AppXinViecWPF\obj\Debug\MainWindow.g.cs
+F:\HK2\Lap trinh window\Đồ án\AppXinViecWPF\AppXinViecWPF\obj\Debug\View\WLogin.g.cs
+F:\HK2\Lap trinh window\Đồ án\AppXinViecWPF\AppXinViecWPF\obj\Debug\App.g.cs
+F:\HK2\Lap trinh window\Đồ án\AppXinViecWPF\AppXinViecWPF\obj\Debug\AppXinViecWPF_MarkupCompile.cache
+F:\HK2\Lap trinh window\Đồ án\AppXinViecWPF\AppXinViecWPF\obj\Debug\AppXinViecWPF_MarkupCompile.lref
+F:\HK2\Lap trinh window\Đồ án\AppXinViecWPF\AppXinViecWPF\bin\Debug\AppXinViecWPF.exe.config
+F:\HK2\Lap trinh window\Đồ án\AppXinViecWPF\AppXinViecWPF\bin\Debug\AppXinViecWPF.exe
+F:\HK2\Lap trinh window\Đồ án\AppXinViecWPF\AppXinViecWPF\bin\Debug\AppXinViecWPF.pdb
+F:\HK2\Lap trinh window\Đồ án\AppXinViecWPF\AppXinViecWPF\bin\Debug\FontAwesome.Sharp.dll
+F:\HK2\Lap trinh window\Đồ án\AppXinViecWPF\AppXinViecWPF\obj\Debug\App.baml
+F:\HK2\Lap trinh window\Đồ án\AppXinViecWPF\AppXinViecWPF\obj\Debug\MainWindow.baml
+F:\HK2\Lap trinh window\Đồ án\AppXinViecWPF\AppXinViecWPF\obj\Debug\View\WLogin.baml
+F:\HK2\Lap trinh window\Đồ án\AppXinViecWPF\AppXinViecWPF\obj\Debug\AppXinViecWPF.g.resources
+F:\HK2\Lap trinh window\Đồ án\AppXinViecWPF\AppXinViecWPF\obj\Debug\AppXinViecWPF.Properties.Resources.resources
+F:\HK2\Lap trinh window\Đồ án\AppXinViecWPF\AppXinViecWPF\obj\Debug\AppXinViecWPF.csproj.GenerateResource.cache
+F:\HK2\Lap trinh window\Đồ án\AppXinViecWPF\AppXinViecWPF\obj\Debug\AppXinViecWPF.csproj.CoreCompileInputs.cache
+F:\HK2\Lap trinh window\Đồ án\AppXinViecWPF\AppXinViecWPF\obj\Debug\AppXinVi.0EC4A672.Up2Date
+F:\HK2\Lap trinh window\Đồ án\AppXinViecWPF\AppXinViecWPF\obj\Debug\AppXinViecWPF.exe
+F:\HK2\Lap trinh window\Đồ án\AppXinViecWPF\AppXinViecWPF\obj\Debug\AppXinViecWPF.pdb
+F:\HK2\Lap trinh window\Đồ án\AppXinViecWPF\AppXinViecWPF\obj\Debug\Style\ButtonStyle.baml
+F:\HK2\Lap trinh window\Đồ án\AppXinViecWPF\AppXinViecWPF\obj\Debug\View\Employer\WMainEmployer.g.cs
+F:\HK2\Lap trinh window\Đồ án\AppXinViecWPF\AppXinViecWPF\obj\Debug\View\Employer\WMainEmployer.baml
+F:\HK2\Lap trinh window\Đồ án\AppXinViecWPF\AppXinViecWPF\obj\Debug\View\Register\WRegister.g.cs
+F:\HK2\Lap trinh window\Đồ án\AppXinViecWPF\AppXinViecWPF\obj\Debug\View\Register\WRegister.baml
+F:\HK2\Lap trinh window\Đồ án\AppXinViecWPF\AppXinViecWPF\obj\Debug\View\Register\WEmployerRegister.g.cs
+F:\HK2\Lap trinh window\Đồ án\AppXinViecWPF\AppXinViecWPF\obj\Debug\View\Register\WEmployerRegister.baml
+F:\HK2\Lap trinh window\Đồ án\AppXinViecWPF\AppXinViecWPF\obj\Debug\View\Applicant\WMainApplicant.g.cs
+F:\HK2\Lap trinh window\Đồ án\AppXinViecWPF\AppXinViecWPF\obj\Debug\View\Employer\UCAccount.g.cs
+F:\HK2\Lap trinh window\Đồ án\AppXinViecWPF\AppXinViecWPF\obj\Debug\View\Applicant\WMainApplicant.baml
+F:\HK2\Lap trinh window\Đồ án\AppXinViecWPF\AppXinViecWPF\obj\Debug\View\Employer\UCAccount.baml
+F:\HK2\Lap trinh window\Đồ án\AppXinViecWPF\AppXinViecWPF\obj\Debug\Style\TextBoxStyle.baml
+F:\HK2\Lap trinh window\Đồ án\AppXinViecWPF\AppXinViecWPF\obj\Debug\View\Employer\UCNews.g.cs
+F:\HK2\Lap trinh window\Đồ án\AppXinViecWPF\AppXinViecWPF\obj\Debug\View\Employer\UCNews.baml
+F:\HK2\Lap trinh window\Đồ án\AppXinViecWPF\AppXinViecWPF\obj\Debug\View\Employer\UCManagePost.g.cs
+F:\HK2\Lap trinh window\Đồ án\AppXinViecWPF\AppXinViecWPF\obj\Debug\View\Employer\UCManagePost.baml
+F:\HK2\Lap trinh window\Đồ án\AppXinViecWPF\AppXinViecWPF\obj\Debug\View\Employer\UCMiniPost.g.cs
+F:\HK2\Lap trinh window\Đồ án\AppXinViecWPF\AppXinViecWPF\obj\Debug\View\Employer\UCMiniPost.baml
+F:\HK2\Lap trinh window\Đồ án\AppXinViecWPF\AppXinViecWPF\obj\Debug\View\Employer\UCManageCV.g.cs
+F:\HK2\Lap trinh window\Đồ án\AppXinViecWPF\AppXinViecWPF\obj\Debug\View\Employer\UCManageCV.baml
+F:\HK2\Lap trinh window\Đồ án\AppXinViecWPF\AppXinViecWPF\obj\Debug\View\Employer\UCMiniCV.g.cs
+F:\HK2\Lap trinh window\Đồ án\AppXinViecWPF\AppXinViecWPF\obj\Debug\View\Employer\UCMiniCV.baml
+F:\HK2\Lap trinh window\Đồ án\AppXinViecWPF\AppXinViecWPF\obj\Debug\View\Applicant\UCSearchJobs.g.cs
+F:\HK2\Lap trinh window\Đồ án\AppXinViecWPF\AppXinViecWPF\obj\Debug\View\Applicant\UCSearchJobs.baml
+F:\HK2\Lap trinh window\Đồ án\AppXinViecWPF\AppXinViecWPF\obj\Debug\View\Applicant\UCJob.g.cs
+F:\HK2\Lap trinh window\Đồ án\AppXinViecWPF\AppXinViecWPF\obj\Debug\View\Applicant\UCJob.baml
+F:\HK2\Lap trinh window\Đồ án\AppXinViecWPF\AppXinViecWPF\obj\Debug\View\Applicant\WJobInfo.g.cs
+F:\HK2\Lap trinh window\Đồ án\AppXinViecWPF\AppXinViecWPF\obj\Debug\View\Applicant\WJobInfo.baml
+F:\HK2\Lap trinh window\Đồ án\AppXinViecWPF\AppXinViecWPF\obj\Debug\View\Applicant\UCCreateCV.g.cs
+F:\HK2\Lap trinh window\Đồ án\AppXinViecWPF\AppXinViecWPF\obj\Debug\View\Applicant\UCCreateCV.baml
+F:\HK2\Lap trinh window\Đồ án\AppXinViecWPF\AppXinViecWPF\obj\Debug\View\Employer\WCreateNewPost.g.cs
+F:\HK2\Lap trinh window\Đồ án\AppXinViecWPF\AppXinViecWPF\obj\Debug\View\Employer\WCreateNewPost.baml
+F:\HK2\Lap trinh window\Đồ án\AppXinViecWPF\AppXinViecWPF\bin\Debug\System.Data.SqlClient.dll
+F:\HK2\Lap trinh window\Đồ án\AppXinViecWPF\AppXinViecWPF\bin\Debug\System.Data.SqlClient.xml
+F:\HK2\Lap trinh window\Đồ án\AppXinViecWPF\AppXinViecWPF\obj\Debug\View\Applicant\WCompanyInfo.g.cs
+F:\HK2\Lap trinh window\Đồ án\AppXinViecWPF\AppXinViecWPF\obj\Debug\View\Applicant\WCompanyInfo.baml
+D:\Project\LapTrinhWindow\Huong\AppXinViecWPF\bin\Debug\AppXinViecWPF.exe.config
+D:\Project\LapTrinhWindow\Huong\AppXinViecWPF\bin\Debug\AppXinViecWPF.exe
+D:\Project\LapTrinhWindow\Huong\AppXinViecWPF\bin\Debug\AppXinViecWPF.pdb
+D:\Project\LapTrinhWindow\Huong\AppXinViecWPF\bin\Debug\FontAwesome.Sharp.dll
+D:\Project\LapTrinhWindow\Huong\AppXinViecWPF\bin\Debug\System.Data.SqlClient.dll
+D:\Project\LapTrinhWindow\Huong\AppXinViecWPF\bin\Debug\System.Data.SqlClient.xml
+D:\Project\LapTrinhWindow\Huong\AppXinViecWPF\obj\Debug\AppXinViecWPF.csproj.AssemblyReference.cache
+D:\Project\LapTrinhWindow\Huong\AppXinViecWPF\obj\Debug\Style\ButtonStyle.baml
+D:\Project\LapTrinhWindow\Huong\AppXinViecWPF\obj\Debug\Style\ColorStyle.baml
+D:\Project\LapTrinhWindow\Huong\AppXinViecWPF\obj\Debug\Style\TextBoxStyle.baml
+D:\Project\LapTrinhWindow\Huong\AppXinViecWPF\obj\Debug\MainWindow.g.cs
+D:\Project\LapTrinhWindow\Huong\AppXinViecWPF\obj\Debug\View\Applicant\UCCompanyInfomation.g.cs
+D:\Project\LapTrinhWindow\Huong\AppXinViecWPF\obj\Debug\View\Applicant\UCCreateCV.g.cs
+D:\Project\LapTrinhWindow\Huong\AppXinViecWPF\obj\Debug\View\Applicant\UCJob.g.cs
+D:\Project\LapTrinhWindow\Huong\AppXinViecWPF\obj\Debug\View\Applicant\UCSavedJobs.g.cs
+D:\Project\LapTrinhWindow\Huong\AppXinViecWPF\obj\Debug\View\Applicant\UCSearchJobs.g.cs
+D:\Project\LapTrinhWindow\Huong\AppXinViecWPF\obj\Debug\View\Applicant\WJobInfo.g.cs
+D:\Project\LapTrinhWindow\Huong\AppXinViecWPF\obj\Debug\View\Applicant\WMainApplicant.g.cs
+D:\Project\LapTrinhWindow\Huong\AppXinViecWPF\obj\Debug\View\Custom\ComboBoxCustom.g.cs
+D:\Project\LapTrinhWindow\Huong\AppXinViecWPF\obj\Debug\View\Custom\TextBoxCustom.g.cs
+D:\Project\LapTrinhWindow\Huong\AppXinViecWPF\obj\Debug\View\Custom\UCBorder.g.cs
+D:\Project\LapTrinhWindow\Huong\AppXinViecWPF\obj\Debug\View\Employer\UCAccount.g.cs
+D:\Project\LapTrinhWindow\Huong\AppXinViecWPF\obj\Debug\View\Employer\UCManageCV.g.cs
+D:\Project\LapTrinhWindow\Huong\AppXinViecWPF\obj\Debug\View\Employer\UCManagePost.g.cs
+D:\Project\LapTrinhWindow\Huong\AppXinViecWPF\obj\Debug\View\Employer\UCMiniCV.g.cs
+D:\Project\LapTrinhWindow\Huong\AppXinViecWPF\obj\Debug\View\Employer\UCMiniPost.g.cs
+D:\Project\LapTrinhWindow\Huong\AppXinViecWPF\obj\Debug\View\Employer\UCNews.g.cs
+D:\Project\LapTrinhWindow\Huong\AppXinViecWPF\obj\Debug\View\Employer\WCreateNewPost.g.cs
+D:\Project\LapTrinhWindow\Huong\AppXinViecWPF\obj\Debug\View\Employer\WMainEmployer.g.cs
+D:\Project\LapTrinhWindow\Huong\AppXinViecWPF\obj\Debug\View\Register\WEmployerRegister.g.cs
+D:\Project\LapTrinhWindow\Huong\AppXinViecWPF\obj\Debug\View\Register\WRegister.g.cs
+D:\Project\LapTrinhWindow\Huong\AppXinViecWPF\obj\Debug\View\WLogin.g.cs
+D:\Project\LapTrinhWindow\Huong\AppXinViecWPF\obj\Debug\App.g.cs
+D:\Project\LapTrinhWindow\Huong\AppXinViecWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Project\LapTrinhWindow\Huong\AppXinViecWPF\obj\Debug\AppXinViecWPF_MarkupCompile.cache
+D:\Project\LapTrinhWindow\Huong\AppXinViecWPF\obj\Debug\AppXinViecWPF_MarkupCompile.lref
+D:\Project\LapTrinhWindow\Huong\AppXinViecWPF\obj\Debug\App.baml
+D:\Project\LapTrinhWindow\Huong\AppXinViecWPF\obj\Debug\MainWindow.baml
+D:\Project\LapTrinhWindow\Huong\AppXinViecWPF\obj\Debug\View\Applicant\UCCompanyInfomation.baml
+D:\Project\LapTrinhWindow\Huong\AppXinViecWPF\obj\Debug\View\Applicant\UCCreateCV.baml
+D:\Project\LapTrinhWindow\Huong\AppXinViecWPF\obj\Debug\View\Applicant\UCJob.baml
+D:\Project\LapTrinhWindow\Huong\AppXinViecWPF\obj\Debug\View\Applicant\UCSavedJobs.baml
+D:\Project\LapTrinhWindow\Huong\AppXinViecWPF\obj\Debug\View\Applicant\UCSearchJobs.baml
+D:\Project\LapTrinhWindow\Huong\AppXinViecWPF\obj\Debug\View\Applicant\WJobInfo.baml
+D:\Project\LapTrinhWindow\Huong\AppXinViecWPF\obj\Debug\View\Applicant\WMainApplicant.baml
+D:\Project\LapTrinhWindow\Huong\AppXinViecWPF\obj\Debug\View\Custom\ComboBoxCustom.baml
+D:\Project\LapTrinhWindow\Huong\AppXinViecWPF\obj\Debug\View\Custom\TextBoxCustom.baml
+D:\Project\LapTrinhWindow\Huong\AppXinViecWPF\obj\Debug\View\Custom\UCBorder.baml
+D:\Project\LapTrinhWindow\Huong\AppXinViecWPF\obj\Debug\View\Employer\UCAccount.baml
+D:\Project\LapTrinhWindow\Huong\AppXinViecWPF\obj\Debug\View\Employer\UCManageCV.baml
+D:\Project\LapTrinhWindow\Huong\AppXinViecWPF\obj\Debug\View\Employer\UCManagePost.baml
+D:\Project\LapTrinhWindow\Huong\AppXinViecWPF\obj\Debug\View\Employer\UCMiniCV.baml
+D:\Project\LapTrinhWindow\Huong\AppXinViecWPF\obj\Debug\View\Employer\UCMiniPost.baml
+D:\Project\LapTrinhWindow\Huong\AppXinViecWPF\obj\Debug\View\Employer\UCNews.baml
+D:\Project\LapTrinhWindow\Huong\AppXinViecWPF\obj\Debug\View\Employer\WCreateNewPost.baml
+D:\Project\LapTrinhWindow\Huong\AppXinViecWPF\obj\Debug\View\Employer\WMainEmployer.baml
+D:\Project\LapTrinhWindow\Huong\AppXinViecWPF\obj\Debug\View\Register\WEmployerRegister.baml
+D:\Project\LapTrinhWindow\Huong\AppXinViecWPF\obj\Debug\View\Register\WRegister.baml
+D:\Project\LapTrinhWindow\Huong\AppXinViecWPF\obj\Debug\View\WLogin.baml
+D:\Project\LapTrinhWindow\Huong\AppXinViecWPF\obj\Debug\AppXinViecWPF.g.resources
+D:\Project\LapTrinhWindow\Huong\AppXinViecWPF\obj\Debug\AppXinViecWPF.Properties.Resources.resources
+D:\Project\LapTrinhWindow\Huong\AppXinViecWPF\obj\Debug\AppXinViecWPF.csproj.GenerateResource.cache
+D:\Project\LapTrinhWindow\Huong\AppXinViecWPF\obj\Debug\AppXinViecWPF.csproj.CoreCompileInputs.cache
+D:\Project\LapTrinhWindow\Huong\AppXinViecWPF\obj\Debug\AppXinVi.0EC4A672.Up2Date
+D:\Project\LapTrinhWindow\Huong\AppXinViecWPF\obj\Debug\AppXinViecWPF.exe
+D:\Project\LapTrinhWindow\Huong\AppXinViecWPF\obj\Debug\AppXinViecWPF.pdb
+D:\Project\LapTrinhWindow\Huong\AppXinViecWPF\obj\Debug\View\Applicant\UCAppliedJobs.g.cs
+D:\Project\LapTrinhWindow\Huong\AppXinViecWPF\obj\Debug\View\Applicant\UCIconCV.g.cs
+D:\Project\LapTrinhWindow\Huong\AppXinViecWPF\obj\Debug\View\Applicant\UCManageCVs.g.cs
+D:\Project\LapTrinhWindow\Huong\AppXinViecWPF\obj\Debug\View\Applicant\UCUploadCVs.g.cs
+D:\Project\LapTrinhWindow\Huong\AppXinViecWPF\obj\Debug\View\Applicant\UCAppliedJobs.baml
+D:\Project\LapTrinhWindow\Huong\AppXinViecWPF\obj\Debug\View\Applicant\UCIconCV.baml
+D:\Project\LapTrinhWindow\Huong\AppXinViecWPF\obj\Debug\View\Applicant\UCManageCVs.baml
+D:\Project\LapTrinhWindow\Huong\AppXinViecWPF\obj\Debug\View\Applicant\UCUploadCVs.baml
+F:\HK2\Lap trinh window\Đồ án\currently\AppXinViecWPF\bin\Debug\AppXinViecWPF.exe.config
+F:\HK2\Lap trinh window\Đồ án\currently\AppXinViecWPF\bin\Debug\AppXinViecWPF.exe
+F:\HK2\Lap trinh window\Đồ án\currently\AppXinViecWPF\bin\Debug\AppXinViecWPF.pdb
+F:\HK2\Lap trinh window\Đồ án\currently\AppXinViecWPF\bin\Debug\FontAwesome.Sharp.dll
+F:\HK2\Lap trinh window\Đồ án\currently\AppXinViecWPF\bin\Debug\System.Data.SqlClient.dll
+F:\HK2\Lap trinh window\Đồ án\currently\AppXinViecWPF\bin\Debug\System.Data.SqlClient.xml
+F:\HK2\Lap trinh window\Đồ án\currently\AppXinViecWPF\obj\Debug\AppXinViecWPF.csproj.AssemblyReference.cache
+F:\HK2\Lap trinh window\Đồ án\currently\AppXinViecWPF\obj\Debug\Style\ButtonStyle.baml
+F:\HK2\Lap trinh window\Đồ án\currently\AppXinViecWPF\obj\Debug\Style\ColorStyle.baml
+F:\HK2\Lap trinh window\Đồ án\currently\AppXinViecWPF\obj\Debug\Style\TextBoxStyle.baml
+F:\HK2\Lap trinh window\Đồ án\currently\AppXinViecWPF\obj\Debug\MainWindow.g.cs
+F:\HK2\Lap trinh window\Đồ án\currently\AppXinViecWPF\obj\Debug\View\Applicant\UCAppliedJobs.g.cs
+F:\HK2\Lap trinh window\Đồ án\currently\AppXinViecWPF\obj\Debug\View\Applicant\UCCompanyInfomation.g.cs
+F:\HK2\Lap trinh window\Đồ án\currently\AppXinViecWPF\obj\Debug\View\Applicant\UCCreateCV.g.cs
+F:\HK2\Lap trinh window\Đồ án\currently\AppXinViecWPF\obj\Debug\View\Applicant\UCIconCV.g.cs
+F:\HK2\Lap trinh window\Đồ án\currently\AppXinViecWPF\obj\Debug\View\Applicant\UCJob.g.cs
+F:\HK2\Lap trinh window\Đồ án\currently\AppXinViecWPF\obj\Debug\View\Applicant\UCManageCVs.g.cs
+F:\HK2\Lap trinh window\Đồ án\currently\AppXinViecWPF\obj\Debug\View\Applicant\UCSavedJobs.g.cs
+F:\HK2\Lap trinh window\Đồ án\currently\AppXinViecWPF\obj\Debug\View\Applicant\UCSearchJobs.g.cs
+F:\HK2\Lap trinh window\Đồ án\currently\AppXinViecWPF\obj\Debug\View\Applicant\UCUploadCVs.g.cs
+F:\HK2\Lap trinh window\Đồ án\currently\AppXinViecWPF\obj\Debug\View\Applicant\WJobInfo.g.cs
+F:\HK2\Lap trinh window\Đồ án\currently\AppXinViecWPF\obj\Debug\View\Applicant\WMainApplicant.g.cs
+F:\HK2\Lap trinh window\Đồ án\currently\AppXinViecWPF\obj\Debug\View\Custom\ComboBoxCustom.g.cs
+F:\HK2\Lap trinh window\Đồ án\currently\AppXinViecWPF\obj\Debug\View\Custom\TextBoxCustom.g.cs
+F:\HK2\Lap trinh window\Đồ án\currently\AppXinViecWPF\obj\Debug\View\Custom\UCBorder.g.cs
+F:\HK2\Lap trinh window\Đồ án\currently\AppXinViecWPF\obj\Debug\View\Employer\UCAccount.g.cs
+F:\HK2\Lap trinh window\Đồ án\currently\AppXinViecWPF\obj\Debug\View\Employer\UCManageCV.g.cs
+F:\HK2\Lap trinh window\Đồ án\currently\AppXinViecWPF\obj\Debug\View\Employer\UCManagePost.g.cs
+F:\HK2\Lap trinh window\Đồ án\currently\AppXinViecWPF\obj\Debug\View\Employer\UCMiniCV.g.cs
+F:\HK2\Lap trinh window\Đồ án\currently\AppXinViecWPF\obj\Debug\View\Employer\UCMiniPost.g.cs
+F:\HK2\Lap trinh window\Đồ án\currently\AppXinViecWPF\obj\Debug\View\Employer\UCNews.g.cs
+F:\HK2\Lap trinh window\Đồ án\currently\AppXinViecWPF\obj\Debug\View\Employer\WCreateNewPost.g.cs
+F:\HK2\Lap trinh window\Đồ án\currently\AppXinViecWPF\obj\Debug\View\Employer\WMainEmployer.g.cs
+F:\HK2\Lap trinh window\Đồ án\currently\AppXinViecWPF\obj\Debug\View\Register\WEmployerRegister.g.cs
+F:\HK2\Lap trinh window\Đồ án\currently\AppXinViecWPF\obj\Debug\View\Register\WRegister.g.cs
+F:\HK2\Lap trinh window\Đồ án\currently\AppXinViecWPF\obj\Debug\View\WLogin.g.cs
+F:\HK2\Lap trinh window\Đồ án\currently\AppXinViecWPF\obj\Debug\App.g.cs
+F:\HK2\Lap trinh window\Đồ án\currently\AppXinViecWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\HK2\Lap trinh window\Đồ án\currently\AppXinViecWPF\obj\Debug\AppXinViecWPF_MarkupCompile.cache
+F:\HK2\Lap trinh window\Đồ án\currently\AppXinViecWPF\obj\Debug\AppXinViecWPF_MarkupCompile.lref
+F:\HK2\Lap trinh window\Đồ án\currently\AppXinViecWPF\obj\Debug\App.baml
+F:\HK2\Lap trinh window\Đồ án\currently\AppXinViecWPF\obj\Debug\MainWindow.baml
+F:\HK2\Lap trinh window\Đồ án\currently\AppXinViecWPF\obj\Debug\View\Applicant\UCAppliedJobs.baml
+F:\HK2\Lap trinh window\Đồ án\currently\AppXinViecWPF\obj\Debug\View\Applicant\UCCompanyInfomation.baml
+F:\HK2\Lap trinh window\Đồ án\currently\AppXinViecWPF\obj\Debug\View\Applicant\UCCreateCV.baml
+F:\HK2\Lap trinh window\Đồ án\currently\AppXinViecWPF\obj\Debug\View\Applicant\UCIconCV.baml
+F:\HK2\Lap trinh window\Đồ án\currently\AppXinViecWPF\obj\Debug\View\Applicant\UCJob.baml
+F:\HK2\Lap trinh window\Đồ án\currently\AppXinViecWPF\obj\Debug\View\Applicant\UCManageCVs.baml
+F:\HK2\Lap trinh window\Đồ án\currently\AppXinViecWPF\obj\Debug\View\Applicant\UCSavedJobs.baml
+F:\HK2\Lap trinh window\Đồ án\currently\AppXinViecWPF\obj\Debug\View\Applicant\UCSearchJobs.baml
+F:\HK2\Lap trinh window\Đồ án\currently\AppXinViecWPF\obj\Debug\View\Applicant\UCUploadCVs.baml
+F:\HK2\Lap trinh window\Đồ án\currently\AppXinViecWPF\obj\Debug\View\Applicant\WJobInfo.baml
+F:\HK2\Lap trinh window\Đồ án\currently\AppXinViecWPF\obj\Debug\View\Applicant\WMainApplicant.baml
+F:\HK2\Lap trinh window\Đồ án\currently\AppXinViecWPF\obj\Debug\View\Custom\ComboBoxCustom.baml
+F:\HK2\Lap trinh window\Đồ án\currently\AppXinViecWPF\obj\Debug\View\Custom\TextBoxCustom.baml
+F:\HK2\Lap trinh window\Đồ án\currently\AppXinViecWPF\obj\Debug\View\Custom\UCBorder.baml
+F:\HK2\Lap trinh window\Đồ án\currently\AppXinViecWPF\obj\Debug\View\Employer\UCAccount.baml
+F:\HK2\Lap trinh window\Đồ án\currently\AppXinViecWPF\obj\Debug\View\Employer\UCManageCV.baml
+F:\HK2\Lap trinh window\Đồ án\currently\AppXinViecWPF\obj\Debug\View\Employer\UCManagePost.baml
+F:\HK2\Lap trinh window\Đồ án\currently\AppXinViecWPF\obj\Debug\View\Employer\UCMiniCV.baml
+F:\HK2\Lap trinh window\Đồ án\currently\AppXinViecWPF\obj\Debug\View\Employer\UCMiniPost.baml
+F:\HK2\Lap trinh window\Đồ án\currently\AppXinViecWPF\obj\Debug\View\Employer\UCNews.baml
+F:\HK2\Lap trinh window\Đồ án\currently\AppXinViecWPF\obj\Debug\View\Employer\WCreateNewPost.baml
+F:\HK2\Lap trinh window\Đồ án\currently\AppXinViecWPF\obj\Debug\View\Employer\WMainEmployer.baml
+F:\HK2\Lap trinh window\Đồ án\currently\AppXinViecWPF\obj\Debug\View\Register\WEmployerRegister.baml
+F:\HK2\Lap trinh window\Đồ án\currently\AppXinViecWPF\obj\Debug\View\Register\WRegister.baml
+F:\HK2\Lap trinh window\Đồ án\currently\AppXinViecWPF\obj\Debug\View\WLogin.baml
+F:\HK2\Lap trinh window\Đồ án\currently\AppXinViecWPF\obj\Debug\AppXinViecWPF.g.resources
+F:\HK2\Lap trinh window\Đồ án\currently\AppXinViecWPF\obj\Debug\AppXinViecWPF.Properties.Resources.resources
+F:\HK2\Lap trinh window\Đồ án\currently\AppXinViecWPF\obj\Debug\AppXinViecWPF.csproj.GenerateResource.cache
+F:\HK2\Lap trinh window\Đồ án\currently\AppXinViecWPF\obj\Debug\AppXinViecWPF.csproj.CoreCompileInputs.cache
+F:\HK2\Lap trinh window\Đồ án\currently\AppXinViecWPF\obj\Debug\AppXinVi.0EC4A672.Up2Date
+F:\HK2\Lap trinh window\Đồ án\currently\AppXinViecWPF\obj\Debug\AppXinViecWPF.exe
+F:\HK2\Lap trinh window\Đồ án\currently\AppXinViecWPF\obj\Debug\AppXinViecWPF.pdb
+D:\Project\LapTrinhWindow\462024\AppXinViecWPF\bin\Debug\AppXinViecWPF.exe.config
+D:\Project\LapTrinhWindow\462024\AppXinViecWPF\bin\Debug\AppXinViecWPF.exe
+D:\Project\LapTrinhWindow\462024\AppXinViecWPF\bin\Debug\AppXinViecWPF.pdb
+D:\Project\LapTrinhWindow\462024\AppXinViecWPF\bin\Debug\FontAwesome.Sharp.dll
+D:\Project\LapTrinhWindow\462024\AppXinViecWPF\bin\Debug\System.Data.SqlClient.dll
+D:\Project\LapTrinhWindow\462024\AppXinViecWPF\bin\Debug\System.Data.SqlClient.xml
+D:\Project\LapTrinhWindow\462024\AppXinViecWPF\obj\Debug\AppXinViecWPF.csproj.AssemblyReference.cache
+D:\Project\LapTrinhWindow\462024\AppXinViecWPF\obj\Debug\Style\ButtonStyle.baml
+D:\Project\LapTrinhWindow\462024\AppXinViecWPF\obj\Debug\Style\ColorStyle.baml
+D:\Project\LapTrinhWindow\462024\AppXinViecWPF\obj\Debug\Style\TextBoxStyle.baml
+D:\Project\LapTrinhWindow\462024\AppXinViecWPF\obj\Debug\MainWindow.g.cs
+D:\Project\LapTrinhWindow\462024\AppXinViecWPF\obj\Debug\View\Applicant\UCAppliedJobs.g.cs
+D:\Project\LapTrinhWindow\462024\AppXinViecWPF\obj\Debug\View\Applicant\UCCompanyInfomation.g.cs
+D:\Project\LapTrinhWindow\462024\AppXinViecWPF\obj\Debug\View\Applicant\UCCreateCV.g.cs
+D:\Project\LapTrinhWindow\462024\AppXinViecWPF\obj\Debug\View\Applicant\UCIconCV.g.cs
+D:\Project\LapTrinhWindow\462024\AppXinViecWPF\obj\Debug\View\Applicant\UCJob.g.cs
+D:\Project\LapTrinhWindow\462024\AppXinViecWPF\obj\Debug\View\Applicant\UCManageCVs.g.cs
+D:\Project\LapTrinhWindow\462024\AppXinViecWPF\obj\Debug\View\Applicant\UCSavedJobs.g.cs
+D:\Project\LapTrinhWindow\462024\AppXinViecWPF\obj\Debug\View\Applicant\UCSearchJobs.g.cs
+D:\Project\LapTrinhWindow\462024\AppXinViecWPF\obj\Debug\View\Applicant\UCUploadCVs.g.cs
+D:\Project\LapTrinhWindow\462024\AppXinViecWPF\obj\Debug\View\Applicant\WJobInfo.g.cs
+D:\Project\LapTrinhWindow\462024\AppXinViecWPF\obj\Debug\View\Applicant\WMainApplicant.g.cs
+D:\Project\LapTrinhWindow\462024\AppXinViecWPF\obj\Debug\View\Custom\ComboBoxCustom.g.cs
+D:\Project\LapTrinhWindow\462024\AppXinViecWPF\obj\Debug\View\Custom\TextBoxCustom.g.cs
+D:\Project\LapTrinhWindow\462024\AppXinViecWPF\obj\Debug\View\Custom\UCBorder.g.cs
+D:\Project\LapTrinhWindow\462024\AppXinViecWPF\obj\Debug\View\Employer\UCAccount.g.cs
+D:\Project\LapTrinhWindow\462024\AppXinViecWPF\obj\Debug\View\Employer\UCManageCV.g.cs
+D:\Project\LapTrinhWindow\462024\AppXinViecWPF\obj\Debug\View\Employer\UCManagePost.g.cs
+D:\Project\LapTrinhWindow\462024\AppXinViecWPF\obj\Debug\View\Employer\UCMiniCV.g.cs
+D:\Project\LapTrinhWindow\462024\AppXinViecWPF\obj\Debug\View\Employer\UCMiniPost.g.cs
+D:\Project\LapTrinhWindow\462024\AppXinViecWPF\obj\Debug\View\Employer\UCNews.g.cs
+D:\Project\LapTrinhWindow\462024\AppXinViecWPF\obj\Debug\View\Employer\WCreateNewPost.g.cs
+D:\Project\LapTrinhWindow\462024\AppXinViecWPF\obj\Debug\View\Employer\WMainEmployer.g.cs
+D:\Project\LapTrinhWindow\462024\AppXinViecWPF\obj\Debug\View\Register\WEmployerRegister.g.cs
+D:\Project\LapTrinhWindow\462024\AppXinViecWPF\obj\Debug\View\Register\WRegister.g.cs
+D:\Project\LapTrinhWindow\462024\AppXinViecWPF\obj\Debug\View\WLogin.g.cs
+D:\Project\LapTrinhWindow\462024\AppXinViecWPF\obj\Debug\App.g.cs
+D:\Project\LapTrinhWindow\462024\AppXinViecWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Project\LapTrinhWindow\462024\AppXinViecWPF\obj\Debug\AppXinViecWPF_MarkupCompile.cache
+D:\Project\LapTrinhWindow\462024\AppXinViecWPF\obj\Debug\AppXinViecWPF_MarkupCompile.lref
+D:\Project\LapTrinhWindow\462024\AppXinViecWPF\obj\Debug\App.baml
+D:\Project\LapTrinhWindow\462024\AppXinViecWPF\obj\Debug\MainWindow.baml
+D:\Project\LapTrinhWindow\462024\AppXinViecWPF\obj\Debug\View\Applicant\UCAppliedJobs.baml
+D:\Project\LapTrinhWindow\462024\AppXinViecWPF\obj\Debug\View\Applicant\UCCompanyInfomation.baml
+D:\Project\LapTrinhWindow\462024\AppXinViecWPF\obj\Debug\View\Applicant\UCCreateCV.baml
+D:\Project\LapTrinhWindow\462024\AppXinViecWPF\obj\Debug\View\Applicant\UCIconCV.baml
+D:\Project\LapTrinhWindow\462024\AppXinViecWPF\obj\Debug\View\Applicant\UCJob.baml
+D:\Project\LapTrinhWindow\462024\AppXinViecWPF\obj\Debug\View\Applicant\UCManageCVs.baml
+D:\Project\LapTrinhWindow\462024\AppXinViecWPF\obj\Debug\View\Applicant\UCSavedJobs.baml
+D:\Project\LapTrinhWindow\462024\AppXinViecWPF\obj\Debug\View\Applicant\UCSearchJobs.baml
+D:\Project\LapTrinhWindow\462024\AppXinViecWPF\obj\Debug\View\Applicant\UCUploadCVs.baml
+D:\Project\LapTrinhWindow\462024\AppXinViecWPF\obj\Debug\View\Applicant\WJobInfo.baml
+D:\Project\LapTrinhWindow\462024\AppXinViecWPF\obj\Debug\View\Applicant\WMainApplicant.baml
+D:\Project\LapTrinhWindow\462024\AppXinViecWPF\obj\Debug\View\Custom\ComboBoxCustom.baml
+D:\Project\LapTrinhWindow\462024\AppXinViecWPF\obj\Debug\View\Custom\TextBoxCustom.baml
+D:\Project\LapTrinhWindow\462024\AppXinViecWPF\obj\Debug\View\Custom\UCBorder.baml
+D:\Project\LapTrinhWindow\462024\AppXinViecWPF\obj\Debug\View\Employer\UCAccount.baml
+D:\Project\LapTrinhWindow\462024\AppXinViecWPF\obj\Debug\View\Employer\UCManageCV.baml
+D:\Project\LapTrinhWindow\462024\AppXinViecWPF\obj\Debug\View\Employer\UCManagePost.baml
+D:\Project\LapTrinhWindow\462024\AppXinViecWPF\obj\Debug\View\Employer\UCMiniCV.baml
+D:\Project\LapTrinhWindow\462024\AppXinViecWPF\obj\Debug\View\Employer\UCMiniPost.baml
+D:\Project\LapTrinhWindow\462024\AppXinViecWPF\obj\Debug\View\Employer\UCNews.baml
+D:\Project\LapTrinhWindow\462024\AppXinViecWPF\obj\Debug\View\Employer\WCreateNewPost.baml
+D:\Project\LapTrinhWindow\462024\AppXinViecWPF\obj\Debug\View\Employer\WMainEmployer.baml
+D:\Project\LapTrinhWindow\462024\AppXinViecWPF\obj\Debug\View\Register\WEmployerRegister.baml
+D:\Project\LapTrinhWindow\462024\AppXinViecWPF\obj\Debug\View\Register\WRegister.baml
+D:\Project\LapTrinhWindow\462024\AppXinViecWPF\obj\Debug\View\WLogin.baml
+D:\Project\LapTrinhWindow\462024\AppXinViecWPF\obj\Debug\AppXinViecWPF.g.resources
+D:\Project\LapTrinhWindow\462024\AppXinViecWPF\obj\Debug\AppXinViecWPF.Properties.Resources.resources
+D:\Project\LapTrinhWindow\462024\AppXinViecWPF\obj\Debug\AppXinViecWPF.csproj.GenerateResource.cache
+D:\Project\LapTrinhWindow\462024\AppXinViecWPF\obj\Debug\AppXinViecWPF.csproj.CoreCompileInputs.cache
+D:\Project\LapTrinhWindow\462024\AppXinViecWPF\obj\Debug\AppXinVi.0EC4A672.Up2Date
+D:\Project\LapTrinhWindow\462024\AppXinViecWPF\obj\Debug\AppXinViecWPF.exe
+D:\Project\LapTrinhWindow\462024\AppXinViecWPF\obj\Debug\AppXinViecWPF.pdb
+D:\Project\LapTrinhWindow\462024\AppXinViecWPF\obj\Debug\View\Applicant\UCChoseCV.g.cs
+D:\Project\LapTrinhWindow\462024\AppXinViecWPF\obj\Debug\View\Applicant\UCViewCV.g.cs
+D:\Project\LapTrinhWindow\462024\AppXinViecWPF\obj\Debug\View\Applicant\UCChoseCV.baml
+D:\Project\LapTrinhWindow\462024\AppXinViecWPF\obj\Debug\View\Applicant\UCViewCV.baml
+F:\HK2\Lap trinh window\Đồ án\current\AppXinViecWPF\bin\Debug\AppXinViecWPF.exe.config
+F:\HK2\Lap trinh window\Đồ án\current\AppXinViecWPF\bin\Debug\AppXinViecWPF.exe
+F:\HK2\Lap trinh window\Đồ án\current\AppXinViecWPF\bin\Debug\AppXinViecWPF.pdb
+F:\HK2\Lap trinh window\Đồ án\current\AppXinViecWPF\bin\Debug\FontAwesome.Sharp.dll
+F:\HK2\Lap trinh window\Đồ án\current\AppXinViecWPF\bin\Debug\System.Data.SqlClient.dll
+F:\HK2\Lap trinh window\Đồ án\current\AppXinViecWPF\bin\Debug\System.Data.SqlClient.xml
+F:\HK2\Lap trinh window\Đồ án\current\AppXinViecWPF\obj\Debug\AppXinViecWPF.csproj.AssemblyReference.cache
+F:\HK2\Lap trinh window\Đồ án\current\AppXinViecWPF\obj\Debug\Style\ButtonStyle.baml
+F:\HK2\Lap trinh window\Đồ án\current\AppXinViecWPF\obj\Debug\Style\ColorStyle.baml
+F:\HK2\Lap trinh window\Đồ án\current\AppXinViecWPF\obj\Debug\Style\TextBoxStyle.baml
+F:\HK2\Lap trinh window\Đồ án\current\AppXinViecWPF\obj\Debug\MainWindow.g.cs
+F:\HK2\Lap trinh window\Đồ án\current\AppXinViecWPF\obj\Debug\View\Applicant\UCAppliedJobs.g.cs
+F:\HK2\Lap trinh window\Đồ án\current\AppXinViecWPF\obj\Debug\View\Applicant\UCChoseCV.g.cs
+F:\HK2\Lap trinh window\Đồ án\current\AppXinViecWPF\obj\Debug\View\Applicant\UCCompanyInfomation.g.cs
+F:\HK2\Lap trinh window\Đồ án\current\AppXinViecWPF\obj\Debug\View\Applicant\UCCreateCV.g.cs
+F:\HK2\Lap trinh window\Đồ án\current\AppXinViecWPF\obj\Debug\View\Applicant\UCIconCV.g.cs
+F:\HK2\Lap trinh window\Đồ án\current\AppXinViecWPF\obj\Debug\View\Applicant\UCJob.g.cs
+F:\HK2\Lap trinh window\Đồ án\current\AppXinViecWPF\obj\Debug\View\Applicant\UCManageCVs.g.cs
+F:\HK2\Lap trinh window\Đồ án\current\AppXinViecWPF\obj\Debug\View\Applicant\UCSavedJobs.g.cs
+F:\HK2\Lap trinh window\Đồ án\current\AppXinViecWPF\obj\Debug\View\Applicant\UCSearchJobs.g.cs
+F:\HK2\Lap trinh window\Đồ án\current\AppXinViecWPF\obj\Debug\View\Applicant\UCUploadCVs.g.cs
+F:\HK2\Lap trinh window\Đồ án\current\AppXinViecWPF\obj\Debug\View\Applicant\UCViewCV.g.cs
+F:\HK2\Lap trinh window\Đồ án\current\AppXinViecWPF\obj\Debug\View\Applicant\WJobInfo.g.cs
+F:\HK2\Lap trinh window\Đồ án\current\AppXinViecWPF\obj\Debug\View\Applicant\WMainApplicant.g.cs
+F:\HK2\Lap trinh window\Đồ án\current\AppXinViecWPF\obj\Debug\View\Custom\ComboBoxCustom.g.cs
+F:\HK2\Lap trinh window\Đồ án\current\AppXinViecWPF\obj\Debug\View\Custom\TextBoxCustom.g.cs
+F:\HK2\Lap trinh window\Đồ án\current\AppXinViecWPF\obj\Debug\View\Custom\UCBorder.g.cs
+F:\HK2\Lap trinh window\Đồ án\current\AppXinViecWPF\obj\Debug\View\Employer\UCAccount.g.cs
+F:\HK2\Lap trinh window\Đồ án\current\AppXinViecWPF\obj\Debug\View\Employer\UCManageCV.g.cs
+F:\HK2\Lap trinh window\Đồ án\current\AppXinViecWPF\obj\Debug\View\Employer\UCManagePost.g.cs
+F:\HK2\Lap trinh window\Đồ án\current\AppXinViecWPF\obj\Debug\View\Employer\UCMiniCV.g.cs
+F:\HK2\Lap trinh window\Đồ án\current\AppXinViecWPF\obj\Debug\View\Employer\UCMiniPost.g.cs
+F:\HK2\Lap trinh window\Đồ án\current\AppXinViecWPF\obj\Debug\View\Employer\UCNews.g.cs
+F:\HK2\Lap trinh window\Đồ án\current\AppXinViecWPF\obj\Debug\View\Employer\WCreateNewPost.g.cs
+F:\HK2\Lap trinh window\Đồ án\current\AppXinViecWPF\obj\Debug\View\Employer\WMainEmployer.g.cs
+F:\HK2\Lap trinh window\Đồ án\current\AppXinViecWPF\obj\Debug\View\Register\WEmployerRegister.g.cs
+F:\HK2\Lap trinh window\Đồ án\current\AppXinViecWPF\obj\Debug\View\Register\WRegister.g.cs
+F:\HK2\Lap trinh window\Đồ án\current\AppXinViecWPF\obj\Debug\View\WLogin.g.cs
+F:\HK2\Lap trinh window\Đồ án\current\AppXinViecWPF\obj\Debug\App.g.cs
+F:\HK2\Lap trinh window\Đồ án\current\AppXinViecWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\HK2\Lap trinh window\Đồ án\current\AppXinViecWPF\obj\Debug\AppXinViecWPF_MarkupCompile.cache
+F:\HK2\Lap trinh window\Đồ án\current\AppXinViecWPF\obj\Debug\AppXinViecWPF_MarkupCompile.lref
+F:\HK2\Lap trinh window\Đồ án\current\AppXinViecWPF\obj\Debug\App.baml
+F:\HK2\Lap trinh window\Đồ án\current\AppXinViecWPF\obj\Debug\MainWindow.baml
+F:\HK2\Lap trinh window\Đồ án\current\AppXinViecWPF\obj\Debug\View\Applicant\UCAppliedJobs.baml
+F:\HK2\Lap trinh window\Đồ án\current\AppXinViecWPF\obj\Debug\View\Applicant\UCChoseCV.baml
+F:\HK2\Lap trinh window\Đồ án\current\AppXinViecWPF\obj\Debug\View\Applicant\UCCompanyInfomation.baml
+F:\HK2\Lap trinh window\Đồ án\current\AppXinViecWPF\obj\Debug\View\Applicant\UCCreateCV.baml
+F:\HK2\Lap trinh window\Đồ án\current\AppXinViecWPF\obj\Debug\View\Applicant\UCIconCV.baml
+F:\HK2\Lap trinh window\Đồ án\current\AppXinViecWPF\obj\Debug\View\Applicant\UCJob.baml
+F:\HK2\Lap trinh window\Đồ án\current\AppXinViecWPF\obj\Debug\View\Applicant\UCManageCVs.baml
+F:\HK2\Lap trinh window\Đồ án\current\AppXinViecWPF\obj\Debug\View\Applicant\UCSavedJobs.baml
+F:\HK2\Lap trinh window\Đồ án\current\AppXinViecWPF\obj\Debug\View\Applicant\UCSearchJobs.baml
+F:\HK2\Lap trinh window\Đồ án\current\AppXinViecWPF\obj\Debug\View\Applicant\UCUploadCVs.baml
+F:\HK2\Lap trinh window\Đồ án\current\AppXinViecWPF\obj\Debug\View\Applicant\UCViewCV.baml
+F:\HK2\Lap trinh window\Đồ án\current\AppXinViecWPF\obj\Debug\View\Applicant\WJobInfo.baml
+F:\HK2\Lap trinh window\Đồ án\current\AppXinViecWPF\obj\Debug\View\Applicant\WMainApplicant.baml
+F:\HK2\Lap trinh window\Đồ án\current\AppXinViecWPF\obj\Debug\View\Custom\ComboBoxCustom.baml
+F:\HK2\Lap trinh window\Đồ án\current\AppXinViecWPF\obj\Debug\View\Custom\TextBoxCustom.baml
+F:\HK2\Lap trinh window\Đồ án\current\AppXinViecWPF\obj\Debug\View\Custom\UCBorder.baml
+F:\HK2\Lap trinh window\Đồ án\current\AppXinViecWPF\obj\Debug\View\Employer\UCAccount.baml
+F:\HK2\Lap trinh window\Đồ án\current\AppXinViecWPF\obj\Debug\View\Employer\UCManageCV.baml
+F:\HK2\Lap trinh window\Đồ án\current\AppXinViecWPF\obj\Debug\View\Employer\UCManagePost.baml
+F:\HK2\Lap trinh window\Đồ án\current\AppXinViecWPF\obj\Debug\View\Employer\UCMiniCV.baml
+F:\HK2\Lap trinh window\Đồ án\current\AppXinViecWPF\obj\Debug\View\Employer\UCMiniPost.baml
+F:\HK2\Lap trinh window\Đồ án\current\AppXinViecWPF\obj\Debug\View\Employer\UCNews.baml
+F:\HK2\Lap trinh window\Đồ án\current\AppXinViecWPF\obj\Debug\View\Employer\WCreateNewPost.baml
+F:\HK2\Lap trinh window\Đồ án\current\AppXinViecWPF\obj\Debug\View\Employer\WMainEmployer.baml
+F:\HK2\Lap trinh window\Đồ án\current\AppXinViecWPF\obj\Debug\View\Register\WEmployerRegister.baml
+F:\HK2\Lap trinh window\Đồ án\current\AppXinViecWPF\obj\Debug\View\Register\WRegister.baml
+F:\HK2\Lap trinh window\Đồ án\current\AppXinViecWPF\obj\Debug\View\WLogin.baml
+F:\HK2\Lap trinh window\Đồ án\current\AppXinViecWPF\obj\Debug\AppXinViecWPF.g.resources
+F:\HK2\Lap trinh window\Đồ án\current\AppXinViecWPF\obj\Debug\AppXinViecWPF.Properties.Resources.resources
+F:\HK2\Lap trinh window\Đồ án\current\AppXinViecWPF\obj\Debug\AppXinViecWPF.csproj.GenerateResource.cache
+F:\HK2\Lap trinh window\Đồ án\current\AppXinViecWPF\obj\Debug\AppXinViecWPF.csproj.CoreCompileInputs.cache
+F:\HK2\Lap trinh window\Đồ án\current\AppXinViecWPF\obj\Debug\AppXinVi.0EC4A672.Up2Date
+F:\HK2\Lap trinh window\Đồ án\current\AppXinViecWPF\obj\Debug\AppXinViecWPF.exe
+F:\HK2\Lap trinh window\Đồ án\current\AppXinViecWPF\obj\Debug\AppXinViecWPF.pdb
+D:\Project\LapTrinhWindow\472024\AppXinViecWPF\bin\Debug\AppXinViecWPF.exe.config
+D:\Project\LapTrinhWindow\472024\AppXinViecWPF\bin\Debug\AppXinViecWPF.exe
+D:\Project\LapTrinhWindow\472024\AppXinViecWPF\bin\Debug\AppXinViecWPF.pdb
+D:\Project\LapTrinhWindow\472024\AppXinViecWPF\bin\Debug\FontAwesome.Sharp.dll
+D:\Project\LapTrinhWindow\472024\AppXinViecWPF\bin\Debug\System.Data.SqlClient.dll
+D:\Project\LapTrinhWindow\472024\AppXinViecWPF\bin\Debug\System.Data.SqlClient.xml
+D:\Project\LapTrinhWindow\472024\AppXinViecWPF\obj\Debug\AppXinViecWPF.csproj.AssemblyReference.cache
+D:\Project\LapTrinhWindow\472024\AppXinViecWPF\obj\Debug\Style\ButtonStyle.baml
+D:\Project\LapTrinhWindow\472024\AppXinViecWPF\obj\Debug\Style\ColorStyle.baml
+D:\Project\LapTrinhWindow\472024\AppXinViecWPF\obj\Debug\Style\TextBoxStyle.baml
+D:\Project\LapTrinhWindow\472024\AppXinViecWPF\obj\Debug\MainWindow.g.cs
+D:\Project\LapTrinhWindow\472024\AppXinViecWPF\obj\Debug\View\Applicant\UCAppliedJobs.g.cs
+D:\Project\LapTrinhWindow\472024\AppXinViecWPF\obj\Debug\View\Applicant\UCChoseCV.g.cs
+D:\Project\LapTrinhWindow\472024\AppXinViecWPF\obj\Debug\View\Applicant\UCCompanyInfomation.g.cs
+D:\Project\LapTrinhWindow\472024\AppXinViecWPF\obj\Debug\View\Applicant\UCCreateCV.g.cs
+D:\Project\LapTrinhWindow\472024\AppXinViecWPF\obj\Debug\View\Applicant\UCIconCV.g.cs
+D:\Project\LapTrinhWindow\472024\AppXinViecWPF\obj\Debug\View\Applicant\UCJob.g.cs
+D:\Project\LapTrinhWindow\472024\AppXinViecWPF\obj\Debug\View\Applicant\UCManageCVs.g.cs
+D:\Project\LapTrinhWindow\472024\AppXinViecWPF\obj\Debug\View\Applicant\UCSavedJobs.g.cs
+D:\Project\LapTrinhWindow\472024\AppXinViecWPF\obj\Debug\View\Applicant\UCSearchJobs.g.cs
+D:\Project\LapTrinhWindow\472024\AppXinViecWPF\obj\Debug\View\Applicant\UCUploadCVs.g.cs
+D:\Project\LapTrinhWindow\472024\AppXinViecWPF\obj\Debug\View\Applicant\UCViewCV.g.cs
+D:\Project\LapTrinhWindow\472024\AppXinViecWPF\obj\Debug\View\Applicant\WJobInfo.g.cs
+D:\Project\LapTrinhWindow\472024\AppXinViecWPF\obj\Debug\View\Applicant\WMainApplicant.g.cs
+D:\Project\LapTrinhWindow\472024\AppXinViecWPF\obj\Debug\View\Custom\ComboBoxCustom.g.cs
+D:\Project\LapTrinhWindow\472024\AppXinViecWPF\obj\Debug\View\Custom\TextBoxCustom.g.cs
+D:\Project\LapTrinhWindow\472024\AppXinViecWPF\obj\Debug\View\Custom\UCBorder.g.cs
+D:\Project\LapTrinhWindow\472024\AppXinViecWPF\obj\Debug\View\Employer\UCAccount.g.cs
+D:\Project\LapTrinhWindow\472024\AppXinViecWPF\obj\Debug\View\Employer\UCManageCV.g.cs
+D:\Project\LapTrinhWindow\472024\AppXinViecWPF\obj\Debug\View\Employer\UCManagePost.g.cs
+D:\Project\LapTrinhWindow\472024\AppXinViecWPF\obj\Debug\View\Employer\UCMiniCV.g.cs
+D:\Project\LapTrinhWindow\472024\AppXinViecWPF\obj\Debug\View\Employer\UCMiniPost.g.cs
+D:\Project\LapTrinhWindow\472024\AppXinViecWPF\obj\Debug\View\Employer\UCNews.g.cs
+D:\Project\LapTrinhWindow\472024\AppXinViecWPF\obj\Debug\View\Employer\WCreateNewPost.g.cs
+D:\Project\LapTrinhWindow\472024\AppXinViecWPF\obj\Debug\View\Employer\WMainEmployer.g.cs
+D:\Project\LapTrinhWindow\472024\AppXinViecWPF\obj\Debug\View\Register\WEmployerRegister.g.cs
+D:\Project\LapTrinhWindow\472024\AppXinViecWPF\obj\Debug\View\Register\WRegister.g.cs
+D:\Project\LapTrinhWindow\472024\AppXinViecWPF\obj\Debug\View\WLogin.g.cs
+D:\Project\LapTrinhWindow\472024\AppXinViecWPF\obj\Debug\App.g.cs
+D:\Project\LapTrinhWindow\472024\AppXinViecWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Project\LapTrinhWindow\472024\AppXinViecWPF\obj\Debug\AppXinViecWPF_MarkupCompile.cache
+D:\Project\LapTrinhWindow\472024\AppXinViecWPF\obj\Debug\AppXinViecWPF_MarkupCompile.lref
+D:\Project\LapTrinhWindow\472024\AppXinViecWPF\obj\Debug\App.baml
+D:\Project\LapTrinhWindow\472024\AppXinViecWPF\obj\Debug\MainWindow.baml
+D:\Project\LapTrinhWindow\472024\AppXinViecWPF\obj\Debug\View\Applicant\UCAppliedJobs.baml
+D:\Project\LapTrinhWindow\472024\AppXinViecWPF\obj\Debug\View\Applicant\UCChoseCV.baml
+D:\Project\LapTrinhWindow\472024\AppXinViecWPF\obj\Debug\View\Applicant\UCCompanyInfomation.baml
+D:\Project\LapTrinhWindow\472024\AppXinViecWPF\obj\Debug\View\Applicant\UCCreateCV.baml
+D:\Project\LapTrinhWindow\472024\AppXinViecWPF\obj\Debug\View\Applicant\UCIconCV.baml
+D:\Project\LapTrinhWindow\472024\AppXinViecWPF\obj\Debug\View\Applicant\UCJob.baml
+D:\Project\LapTrinhWindow\472024\AppXinViecWPF\obj\Debug\View\Applicant\UCManageCVs.baml
+D:\Project\LapTrinhWindow\472024\AppXinViecWPF\obj\Debug\View\Applicant\UCSavedJobs.baml
+D:\Project\LapTrinhWindow\472024\AppXinViecWPF\obj\Debug\View\Applicant\UCSearchJobs.baml
+D:\Project\LapTrinhWindow\472024\AppXinViecWPF\obj\Debug\View\Applicant\UCUploadCVs.baml
+D:\Project\LapTrinhWindow\472024\AppXinViecWPF\obj\Debug\View\Applicant\UCViewCV.baml
+D:\Project\LapTrinhWindow\472024\AppXinViecWPF\obj\Debug\View\Applicant\WJobInfo.baml
+D:\Project\LapTrinhWindow\472024\AppXinViecWPF\obj\Debug\View\Applicant\WMainApplicant.baml
+D:\Project\LapTrinhWindow\472024\AppXinViecWPF\obj\Debug\View\Custom\ComboBoxCustom.baml
+D:\Project\LapTrinhWindow\472024\AppXinViecWPF\obj\Debug\View\Custom\TextBoxCustom.baml
+D:\Project\LapTrinhWindow\472024\AppXinViecWPF\obj\Debug\View\Custom\UCBorder.baml
+D:\Project\LapTrinhWindow\472024\AppXinViecWPF\obj\Debug\View\Employer\UCAccount.baml
+D:\Project\LapTrinhWindow\472024\AppXinViecWPF\obj\Debug\View\Employer\UCManageCV.baml
+D:\Project\LapTrinhWindow\472024\AppXinViecWPF\obj\Debug\View\Employer\UCManagePost.baml
+D:\Project\LapTrinhWindow\472024\AppXinViecWPF\obj\Debug\View\Employer\UCMiniCV.baml
+D:\Project\LapTrinhWindow\472024\AppXinViecWPF\obj\Debug\View\Employer\UCMiniPost.baml
+D:\Project\LapTrinhWindow\472024\AppXinViecWPF\obj\Debug\View\Employer\UCNews.baml
+D:\Project\LapTrinhWindow\472024\AppXinViecWPF\obj\Debug\View\Employer\WCreateNewPost.baml
+D:\Project\LapTrinhWindow\472024\AppXinViecWPF\obj\Debug\View\Employer\WMainEmployer.baml
+D:\Project\LapTrinhWindow\472024\AppXinViecWPF\obj\Debug\View\Register\WEmployerRegister.baml
+D:\Project\LapTrinhWindow\472024\AppXinViecWPF\obj\Debug\View\Register\WRegister.baml
+D:\Project\LapTrinhWindow\472024\AppXinViecWPF\obj\Debug\View\WLogin.baml
+D:\Project\LapTrinhWindow\472024\AppXinViecWPF\obj\Debug\AppXinViecWPF.g.resources
+D:\Project\LapTrinhWindow\472024\AppXinViecWPF\obj\Debug\AppXinViecWPF.Properties.Resources.resources
+D:\Project\LapTrinhWindow\472024\AppXinViecWPF\obj\Debug\AppXinViecWPF.csproj.GenerateResource.cache
+D:\Project\LapTrinhWindow\472024\AppXinViecWPF\obj\Debug\AppXinViecWPF.csproj.CoreCompileInputs.cache
+D:\Project\LapTrinhWindow\472024\AppXinViecWPF\obj\Debug\AppXinVi.0EC4A672.Up2Date
+D:\Project\LapTrinhWindow\472024\AppXinViecWPF\obj\Debug\AppXinViecWPF.exe
+D:\Project\LapTrinhWindow\472024\AppXinViecWPF\obj\Debug\AppXinViecWPF.pdb
+F:\HK2\Lap trinh window\Đồ án\curr\AppXinViecWPF\bin\Debug\AppXinViecWPF.exe.config
+F:\HK2\Lap trinh window\Đồ án\curr\AppXinViecWPF\bin\Debug\AppXinViecWPF.exe
+F:\HK2\Lap trinh window\Đồ án\curr\AppXinViecWPF\bin\Debug\AppXinViecWPF.pdb
+F:\HK2\Lap trinh window\Đồ án\curr\AppXinViecWPF\bin\Debug\FontAwesome.Sharp.dll
+F:\HK2\Lap trinh window\Đồ án\curr\AppXinViecWPF\bin\Debug\System.Data.SqlClient.dll
+F:\HK2\Lap trinh window\Đồ án\curr\AppXinViecWPF\bin\Debug\System.Data.SqlClient.xml
+F:\HK2\Lap trinh window\Đồ án\curr\AppXinViecWPF\obj\Debug\AppXinViecWPF.csproj.AssemblyReference.cache
+F:\HK2\Lap trinh window\Đồ án\curr\AppXinViecWPF\obj\Debug\Style\ButtonStyle.baml
+F:\HK2\Lap trinh window\Đồ án\curr\AppXinViecWPF\obj\Debug\Style\ColorStyle.baml
+F:\HK2\Lap trinh window\Đồ án\curr\AppXinViecWPF\obj\Debug\Style\TextBoxStyle.baml
+F:\HK2\Lap trinh window\Đồ án\curr\AppXinViecWPF\obj\Debug\MainWindow.g.cs
+F:\HK2\Lap trinh window\Đồ án\curr\AppXinViecWPF\obj\Debug\View\Applicant\UCAppliedJobs.g.cs
+F:\HK2\Lap trinh window\Đồ án\curr\AppXinViecWPF\obj\Debug\View\Applicant\UCCompanyInfomation.g.cs
+F:\HK2\Lap trinh window\Đồ án\curr\AppXinViecWPF\obj\Debug\View\Applicant\UCCreateCV.g.cs
+F:\HK2\Lap trinh window\Đồ án\curr\AppXinViecWPF\obj\Debug\View\Applicant\UCIconCV.g.cs
+F:\HK2\Lap trinh window\Đồ án\curr\AppXinViecWPF\obj\Debug\View\Applicant\UCJob.g.cs
+F:\HK2\Lap trinh window\Đồ án\curr\AppXinViecWPF\obj\Debug\View\Applicant\UCManageCVs.g.cs
+F:\HK2\Lap trinh window\Đồ án\curr\AppXinViecWPF\obj\Debug\View\Applicant\UCSavedJobs.g.cs
+F:\HK2\Lap trinh window\Đồ án\curr\AppXinViecWPF\obj\Debug\View\Applicant\UCSearchJobs.g.cs
+F:\HK2\Lap trinh window\Đồ án\curr\AppXinViecWPF\obj\Debug\View\Applicant\UCUploadCVs.g.cs
+F:\HK2\Lap trinh window\Đồ án\curr\AppXinViecWPF\obj\Debug\View\Applicant\UCViewCV.g.cs
+F:\HK2\Lap trinh window\Đồ án\curr\AppXinViecWPF\obj\Debug\View\Applicant\WJobInfo.g.cs
+F:\HK2\Lap trinh window\Đồ án\curr\AppXinViecWPF\obj\Debug\View\Applicant\WMainApplicant.g.cs
+F:\HK2\Lap trinh window\Đồ án\curr\AppXinViecWPF\obj\Debug\View\Custom\ComboBoxCustom.g.cs
+F:\HK2\Lap trinh window\Đồ án\curr\AppXinViecWPF\obj\Debug\View\Custom\TextBoxCustom.g.cs
+F:\HK2\Lap trinh window\Đồ án\curr\AppXinViecWPF\obj\Debug\View\Custom\UCBorder.g.cs
+F:\HK2\Lap trinh window\Đồ án\curr\AppXinViecWPF\obj\Debug\View\Employer\UCAccount.g.cs
+F:\HK2\Lap trinh window\Đồ án\curr\AppXinViecWPF\obj\Debug\View\Employer\UCManageCV.g.cs
+F:\HK2\Lap trinh window\Đồ án\curr\AppXinViecWPF\obj\Debug\View\Employer\UCManagePost.g.cs
+F:\HK2\Lap trinh window\Đồ án\curr\AppXinViecWPF\obj\Debug\View\Employer\UCMiniCV.g.cs
+F:\HK2\Lap trinh window\Đồ án\curr\AppXinViecWPF\obj\Debug\View\Employer\UCMiniPost.g.cs
+F:\HK2\Lap trinh window\Đồ án\curr\AppXinViecWPF\obj\Debug\View\Employer\UCNews.g.cs
+F:\HK2\Lap trinh window\Đồ án\curr\AppXinViecWPF\obj\Debug\View\Employer\WCreateNewPost.g.cs
+F:\HK2\Lap trinh window\Đồ án\curr\AppXinViecWPF\obj\Debug\View\Employer\WMainEmployer.g.cs
+F:\HK2\Lap trinh window\Đồ án\curr\AppXinViecWPF\obj\Debug\View\Register\WEmployerRegister.g.cs
+F:\HK2\Lap trinh window\Đồ án\curr\AppXinViecWPF\obj\Debug\View\Register\WRegister.g.cs
+F:\HK2\Lap trinh window\Đồ án\curr\AppXinViecWPF\obj\Debug\View\WLogin.g.cs
+F:\HK2\Lap trinh window\Đồ án\curr\AppXinViecWPF\obj\Debug\App.g.cs
+F:\HK2\Lap trinh window\Đồ án\curr\AppXinViecWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\HK2\Lap trinh window\Đồ án\curr\AppXinViecWPF\obj\Debug\AppXinViecWPF_MarkupCompile.cache
+F:\HK2\Lap trinh window\Đồ án\curr\AppXinViecWPF\obj\Debug\AppXinViecWPF_MarkupCompile.lref
+F:\HK2\Lap trinh window\Đồ án\curr\AppXinViecWPF\obj\Debug\App.baml
+F:\HK2\Lap trinh window\Đồ án\curr\AppXinViecWPF\obj\Debug\MainWindow.baml
+F:\HK2\Lap trinh window\Đồ án\curr\AppXinViecWPF\obj\Debug\View\Applicant\UCAppliedJobs.baml
+F:\HK2\Lap trinh window\Đồ án\curr\AppXinViecWPF\obj\Debug\View\Applicant\UCCompanyInfomation.baml
+F:\HK2\Lap trinh window\Đồ án\curr\AppXinViecWPF\obj\Debug\View\Applicant\UCCreateCV.baml
+F:\HK2\Lap trinh window\Đồ án\curr\AppXinViecWPF\obj\Debug\View\Applicant\UCIconCV.baml
+F:\HK2\Lap trinh window\Đồ án\curr\AppXinViecWPF\obj\Debug\View\Applicant\UCJob.baml
+F:\HK2\Lap trinh window\Đồ án\curr\AppXinViecWPF\obj\Debug\View\Applicant\UCManageCVs.baml
+F:\HK2\Lap trinh window\Đồ án\curr\AppXinViecWPF\obj\Debug\View\Applicant\UCSavedJobs.baml
+F:\HK2\Lap trinh window\Đồ án\curr\AppXinViecWPF\obj\Debug\View\Applicant\UCSearchJobs.baml
+F:\HK2\Lap trinh window\Đồ án\curr\AppXinViecWPF\obj\Debug\View\Applicant\UCUploadCVs.baml
+F:\HK2\Lap trinh window\Đồ án\curr\AppXinViecWPF\obj\Debug\View\Applicant\UCViewCV.baml
+F:\HK2\Lap trinh window\Đồ án\curr\AppXinViecWPF\obj\Debug\View\Applicant\WJobInfo.baml
+F:\HK2\Lap trinh window\Đồ án\curr\AppXinViecWPF\obj\Debug\View\Applicant\WMainApplicant.baml
+F:\HK2\Lap trinh window\Đồ án\curr\AppXinViecWPF\obj\Debug\View\Custom\ComboBoxCustom.baml
+F:\HK2\Lap trinh window\Đồ án\curr\AppXinViecWPF\obj\Debug\View\Custom\TextBoxCustom.baml
+F:\HK2\Lap trinh window\Đồ án\curr\AppXinViecWPF\obj\Debug\View\Custom\UCBorder.baml
+F:\HK2\Lap trinh window\Đồ án\curr\AppXinViecWPF\obj\Debug\View\Employer\UCAccount.baml
+F:\HK2\Lap trinh window\Đồ án\curr\AppXinViecWPF\obj\Debug\View\Employer\UCManageCV.baml
+F:\HK2\Lap trinh window\Đồ án\curr\AppXinViecWPF\obj\Debug\View\Employer\UCManagePost.baml
+F:\HK2\Lap trinh window\Đồ án\curr\AppXinViecWPF\obj\Debug\View\Employer\UCMiniCV.baml
+F:\HK2\Lap trinh window\Đồ án\curr\AppXinViecWPF\obj\Debug\View\Employer\UCMiniPost.baml
+F:\HK2\Lap trinh window\Đồ án\curr\AppXinViecWPF\obj\Debug\View\Employer\UCNews.baml
+F:\HK2\Lap trinh window\Đồ án\curr\AppXinViecWPF\obj\Debug\View\Employer\WCreateNewPost.baml
+F:\HK2\Lap trinh window\Đồ án\curr\AppXinViecWPF\obj\Debug\View\Employer\WMainEmployer.baml
+F:\HK2\Lap trinh window\Đồ án\curr\AppXinViecWPF\obj\Debug\View\Register\WEmployerRegister.baml
+F:\HK2\Lap trinh window\Đồ án\curr\AppXinViecWPF\obj\Debug\View\Register\WRegister.baml
+F:\HK2\Lap trinh window\Đồ án\curr\AppXinViecWPF\obj\Debug\View\WLogin.baml
+F:\HK2\Lap trinh window\Đồ án\curr\AppXinViecWPF\obj\Debug\AppXinViecWPF.g.resources
+F:\HK2\Lap trinh window\Đồ án\curr\AppXinViecWPF\obj\Debug\AppXinViecWPF.Properties.Resources.resources
+F:\HK2\Lap trinh window\Đồ án\curr\AppXinViecWPF\obj\Debug\AppXinViecWPF.csproj.GenerateResource.cache
+F:\HK2\Lap trinh window\Đồ án\curr\AppXinViecWPF\obj\Debug\AppXinViecWPF.csproj.CoreCompileInputs.cache
+F:\HK2\Lap trinh window\Đồ án\curr\AppXinViecWPF\obj\Debug\AppXinVi.0EC4A672.Up2Date
+F:\HK2\Lap trinh window\Đồ án\curr\AppXinViecWPF\obj\Debug\AppXinViecWPF.exe
+F:\HK2\Lap trinh window\Đồ án\curr\AppXinViecWPF\obj\Debug\AppXinViecWPF.pdb
+F:\HK2\Lap trinh window\Đồ án\curr\AppXinViecWPF\obj\Debug\View\Applicant\UCrbtnCV.g.cs
+F:\HK2\Lap trinh window\Đồ án\curr\AppXinViecWPF\obj\Debug\View\Applicant\UCrbtnCV.baml
+F:\HK2\Lap trinh window\Đồ án\curr\AppXinViecWPF\obj\Debug\View\Applicant\WChoseCV.g.cs
+F:\HK2\Lap trinh window\Đồ án\curr\AppXinViecWPF\obj\Debug\View\Applicant\WChoseCV.baml
+F:\HK2\Lap trinh window\Đồ án\curr\AppXinViecWPF\obj\Debug\View\Employer\WViewCV.g.cs
+F:\HK2\Lap trinh window\Đồ án\curr\AppXinViecWPF\obj\Debug\View\Employer\WViewCV.baml
+C:\Users\ADMIN\Downloads\Window1542024\AppXinViecWPF\bin\Debug\AppXinViecWPF.exe.config
+C:\Users\ADMIN\Downloads\Window1542024\AppXinViecWPF\bin\Debug\AppXinViecWPF.exe
+C:\Users\ADMIN\Downloads\Window1542024\AppXinViecWPF\bin\Debug\AppXinViecWPF.pdb
+C:\Users\ADMIN\Downloads\Window1542024\AppXinViecWPF\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\ADMIN\Downloads\Window1542024\AppXinViecWPF\bin\Debug\System.Data.SqlClient.dll
+C:\Users\ADMIN\Downloads\Window1542024\AppXinViecWPF\bin\Debug\System.Data.SqlClient.xml
+C:\Users\ADMIN\Downloads\Window1542024\AppXinViecWPF\obj\Debug\AppXinViecWPF.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\Window1542024\AppXinViecWPF\obj\Debug\Style\ButtonStyle.baml
+C:\Users\ADMIN\Downloads\Window1542024\AppXinViecWPF\obj\Debug\Style\ColorStyle.baml
+C:\Users\ADMIN\Downloads\Window1542024\AppXinViecWPF\obj\Debug\Style\TextBoxStyle.baml
+C:\Users\ADMIN\Downloads\Window1542024\AppXinViecWPF\obj\Debug\MainWindow.g.cs
+C:\Users\ADMIN\Downloads\Window1542024\AppXinViecWPF\obj\Debug\View\Applicant\UCAppliedJobs.g.cs
+C:\Users\ADMIN\Downloads\Window1542024\AppXinViecWPF\obj\Debug\View\Applicant\UCCompanyInfomation.g.cs
+C:\Users\ADMIN\Downloads\Window1542024\AppXinViecWPF\obj\Debug\View\Applicant\UCCreateCV.g.cs
+C:\Users\ADMIN\Downloads\Window1542024\AppXinViecWPF\obj\Debug\View\Applicant\UCIconCV.g.cs
+C:\Users\ADMIN\Downloads\Window1542024\AppXinViecWPF\obj\Debug\View\Applicant\UCJob.g.cs
+C:\Users\ADMIN\Downloads\Window1542024\AppXinViecWPF\obj\Debug\View\Applicant\UCManageCVs.g.cs
+C:\Users\ADMIN\Downloads\Window1542024\AppXinViecWPF\obj\Debug\View\Applicant\UCrbtnCV.g.cs
+C:\Users\ADMIN\Downloads\Window1542024\AppXinViecWPF\obj\Debug\View\Applicant\UCSavedJobs.g.cs
+C:\Users\ADMIN\Downloads\Window1542024\AppXinViecWPF\obj\Debug\View\Applicant\UCSearchJobs.g.cs
+C:\Users\ADMIN\Downloads\Window1542024\AppXinViecWPF\obj\Debug\View\Applicant\UCUploadCVs.g.cs
+C:\Users\ADMIN\Downloads\Window1542024\AppXinViecWPF\obj\Debug\View\Applicant\UCViewCV.g.cs
+C:\Users\ADMIN\Downloads\Window1542024\AppXinViecWPF\obj\Debug\View\Applicant\WChoseCV.g.cs
+C:\Users\ADMIN\Downloads\Window1542024\AppXinViecWPF\obj\Debug\View\Applicant\WJobInfo.g.cs
+C:\Users\ADMIN\Downloads\Window1542024\AppXinViecWPF\obj\Debug\View\Applicant\WMainApplicant.g.cs
+C:\Users\ADMIN\Downloads\Window1542024\AppXinViecWPF\obj\Debug\View\Custom\ComboBoxCustom.g.cs
+C:\Users\ADMIN\Downloads\Window1542024\AppXinViecWPF\obj\Debug\View\Custom\TextBoxCustom.g.cs
+C:\Users\ADMIN\Downloads\Window1542024\AppXinViecWPF\obj\Debug\View\Custom\UCBorder.g.cs
+C:\Users\ADMIN\Downloads\Window1542024\AppXinViecWPF\obj\Debug\View\Employer\UCAccount.g.cs
+C:\Users\ADMIN\Downloads\Window1542024\AppXinViecWPF\obj\Debug\View\Employer\UCManageCV.g.cs
+C:\Users\ADMIN\Downloads\Window1542024\AppXinViecWPF\obj\Debug\View\Employer\UCManagePost.g.cs
+C:\Users\ADMIN\Downloads\Window1542024\AppXinViecWPF\obj\Debug\View\Employer\UCMiniCV.g.cs
+C:\Users\ADMIN\Downloads\Window1542024\AppXinViecWPF\obj\Debug\View\Employer\UCMiniPost.g.cs
+C:\Users\ADMIN\Downloads\Window1542024\AppXinViecWPF\obj\Debug\View\Employer\UCNews.g.cs
+C:\Users\ADMIN\Downloads\Window1542024\AppXinViecWPF\obj\Debug\View\Employer\WCreateNewPost.g.cs
+C:\Users\ADMIN\Downloads\Window1542024\AppXinViecWPF\obj\Debug\View\Employer\WMainEmployer.g.cs
+C:\Users\ADMIN\Downloads\Window1542024\AppXinViecWPF\obj\Debug\View\Employer\WViewCV.g.cs
+C:\Users\ADMIN\Downloads\Window1542024\AppXinViecWPF\obj\Debug\View\Register\WEmployerRegister.g.cs
+C:\Users\ADMIN\Downloads\Window1542024\AppXinViecWPF\obj\Debug\View\Register\WRegister.g.cs
+C:\Users\ADMIN\Downloads\Window1542024\AppXinViecWPF\obj\Debug\View\WLogin.g.cs
+C:\Users\ADMIN\Downloads\Window1542024\AppXinViecWPF\obj\Debug\App.g.cs
+C:\Users\ADMIN\Downloads\Window1542024\AppXinViecWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ADMIN\Downloads\Window1542024\AppXinViecWPF\obj\Debug\AppXinViecWPF_MarkupCompile.cache
+C:\Users\ADMIN\Downloads\Window1542024\AppXinViecWPF\obj\Debug\AppXinViecWPF_MarkupCompile.lref
+C:\Users\ADMIN\Downloads\Window1542024\AppXinViecWPF\obj\Debug\App.baml
+C:\Users\ADMIN\Downloads\Window1542024\AppXinViecWPF\obj\Debug\MainWindow.baml
+C:\Users\ADMIN\Downloads\Window1542024\AppXinViecWPF\obj\Debug\View\Applicant\UCAppliedJobs.baml
+C:\Users\ADMIN\Downloads\Window1542024\AppXinViecWPF\obj\Debug\View\Applicant\UCCompanyInfomation.baml
+C:\Users\ADMIN\Downloads\Window1542024\AppXinViecWPF\obj\Debug\View\Applicant\UCCreateCV.baml
+C:\Users\ADMIN\Downloads\Window1542024\AppXinViecWPF\obj\Debug\View\Applicant\UCIconCV.baml
+C:\Users\ADMIN\Downloads\Window1542024\AppXinViecWPF\obj\Debug\View\Applicant\UCJob.baml
+C:\Users\ADMIN\Downloads\Window1542024\AppXinViecWPF\obj\Debug\View\Applicant\UCManageCVs.baml
+C:\Users\ADMIN\Downloads\Window1542024\AppXinViecWPF\obj\Debug\View\Applicant\UCrbtnCV.baml
+C:\Users\ADMIN\Downloads\Window1542024\AppXinViecWPF\obj\Debug\View\Applicant\UCSavedJobs.baml
+C:\Users\ADMIN\Downloads\Window1542024\AppXinViecWPF\obj\Debug\View\Applicant\UCSearchJobs.baml
+C:\Users\ADMIN\Downloads\Window1542024\AppXinViecWPF\obj\Debug\View\Applicant\UCUploadCVs.baml
+C:\Users\ADMIN\Downloads\Window1542024\AppXinViecWPF\obj\Debug\View\Applicant\UCViewCV.baml
+C:\Users\ADMIN\Downloads\Window1542024\AppXinViecWPF\obj\Debug\View\Applicant\WChoseCV.baml
+C:\Users\ADMIN\Downloads\Window1542024\AppXinViecWPF\obj\Debug\View\Applicant\WJobInfo.baml
+C:\Users\ADMIN\Downloads\Window1542024\AppXinViecWPF\obj\Debug\View\Applicant\WMainApplicant.baml
+C:\Users\ADMIN\Downloads\Window1542024\AppXinViecWPF\obj\Debug\View\Custom\ComboBoxCustom.baml
+C:\Users\ADMIN\Downloads\Window1542024\AppXinViecWPF\obj\Debug\View\Custom\TextBoxCustom.baml
+C:\Users\ADMIN\Downloads\Window1542024\AppXinViecWPF\obj\Debug\View\Custom\UCBorder.baml
+C:\Users\ADMIN\Downloads\Window1542024\AppXinViecWPF\obj\Debug\View\Employer\UCAccount.baml
+C:\Users\ADMIN\Downloads\Window1542024\AppXinViecWPF\obj\Debug\View\Employer\UCManageCV.baml
+C:\Users\ADMIN\Downloads\Window1542024\AppXinViecWPF\obj\Debug\View\Employer\UCManagePost.baml
+C:\Users\ADMIN\Downloads\Window1542024\AppXinViecWPF\obj\Debug\View\Employer\UCMiniCV.baml
+C:\Users\ADMIN\Downloads\Window1542024\AppXinViecWPF\obj\Debug\View\Employer\UCMiniPost.baml
+C:\Users\ADMIN\Downloads\Window1542024\AppXinViecWPF\obj\Debug\View\Employer\UCNews.baml
+C:\Users\ADMIN\Downloads\Window1542024\AppXinViecWPF\obj\Debug\View\Employer\WCreateNewPost.baml
+C:\Users\ADMIN\Downloads\Window1542024\AppXinViecWPF\obj\Debug\View\Employer\WMainEmployer.baml
+C:\Users\ADMIN\Downloads\Window1542024\AppXinViecWPF\obj\Debug\View\Employer\WViewCV.baml
+C:\Users\ADMIN\Downloads\Window1542024\AppXinViecWPF\obj\Debug\View\Register\WEmployerRegister.baml
+C:\Users\ADMIN\Downloads\Window1542024\AppXinViecWPF\obj\Debug\View\Register\WRegister.baml
+C:\Users\ADMIN\Downloads\Window1542024\AppXinViecWPF\obj\Debug\View\WLogin.baml
+C:\Users\ADMIN\Downloads\Window1542024\AppXinViecWPF\obj\Debug\AppXinViecWPF.g.resources
+C:\Users\ADMIN\Downloads\Window1542024\AppXinViecWPF\obj\Debug\AppXinViecWPF.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\Window1542024\AppXinViecWPF\obj\Debug\AppXinViecWPF.csproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\Window1542024\AppXinViecWPF\obj\Debug\AppXinViecWPF.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\Window1542024\AppXinViecWPF\obj\Debug\AppXinVi.0EC4A672.Up2Date
+C:\Users\ADMIN\Downloads\Window1542024\AppXinViecWPF\obj\Debug\AppXinViecWPF.exe
+C:\Users\ADMIN\Downloads\Window1542024\AppXinViecWPF\obj\Debug\AppXinViecWPF.pdb
+C:\Users\ADMIN\Downloads\Window1542024\AppXinViecWPF\obj\Debug\View\Applicant\UCIconAppliedJobs.g.cs
+C:\Users\ADMIN\Downloads\Window1542024\AppXinViecWPF\obj\Debug\View\Applicant\UCIconAppliedJobs.baml
